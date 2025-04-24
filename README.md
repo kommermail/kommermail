@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kommermail
 - 👀 I’m interested in data science, python, problem solving, and learning new things.
-- 🌱 I’m currently learning R, and continuing my learning of python and SQL, as well as machine learning and data science in general.
+- 🌱 I’m currently learning about machine learning models and data science, in addition to continuing my learning of python and SQL.
 - 💞️ I’m looking to collaborate on data science projects and database management.
 - 📫 How to reach me by email: kommermail@gmail.com 
 - 😄 Pronouns: He/Him
